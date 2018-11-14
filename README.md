@@ -1,6 +1,6 @@
 # basic_flutter
 
-A new Flutter project.
+โค๊ดตัวอย่างการเรียนรู้การใช้ Row และ Colunm
 
 ## Getting Started
 
