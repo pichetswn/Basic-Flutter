@@ -1,6 +1,7 @@
 # basic_flutter
 
 โค๊ดตัวอย่างการเรียนรู้การใช้ Row และ Colunm
+pichet.s@rmutsv.ac.th
 
 ## Getting Started
 [![48.jpg](https://i.postimg.cc/WbmJY2km/48.jpg)](https://postimg.cc/QHttHZSV)
